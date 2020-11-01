@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/dragonflex/static/js/main.cc1d985d.chunk.js",
+    "main.js.map": "/dragonflex/static/js/main.cc1d985d.chunk.js.map",
+    "runtime-main.js": "/dragonflex/static/js/runtime-main.00aa1eb7.js",
+    "runtime-main.js.map": "/dragonflex/static/js/runtime-main.00aa1eb7.js.map",
+    "static/js/2.68aa09eb.chunk.js": "/dragonflex/static/js/2.68aa09eb.chunk.js",
+    "static/js/2.68aa09eb.chunk.js.map": "/dragonflex/static/js/2.68aa09eb.chunk.js.map",
+    "index.html": "/dragonflex/index.html",
+    "static/js/2.68aa09eb.chunk.js.LICENSE.txt": "/dragonflex/static/js/2.68aa09eb.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/dragonflex/static/media/noPosterSmall.ea2ad102.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00aa1eb7.js",
+    "static/js/2.68aa09eb.chunk.js",
+    "static/js/main.cc1d985d.chunk.js"
+  ]
+}
